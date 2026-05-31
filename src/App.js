@@ -20,6 +20,7 @@ function App() {
         <img
           src="https://i.pinimg.com/236x/34/2f/9d/342f9d37aa01a09aa7b8a540a0c49153.jpg"
           className="muscleduck"
+          alt="muscleduck"
         />
 
         <h2>About Me</h2>
